@@ -1,0 +1,19 @@
+{
+    "pelajaran": [
+        {
+            "nama": "Matematika",
+            "guru": "Budi",
+            "nilai": 90
+        },
+        {
+            "nama": "Bahasa Indonesia",
+            "guru": "Ani",
+            "nilai": 80
+        },
+        {
+            "nama": "Bahasa Inggris",
+            "guru": "Dewi",
+            "nilai": 85
+        }
+    ]
+}

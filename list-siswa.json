@@ -1,0 +1,16 @@
+{
+    "siswa": [
+        {
+            "nama": "Andi",
+            "umur": 20
+        },
+        {
+            "nama": "Budi",
+            "umur": 21
+        },
+        {
+            "nama": "Caca",
+            "umur": 22
+        }
+    ]
+}
